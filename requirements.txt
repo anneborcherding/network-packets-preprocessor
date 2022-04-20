@@ -1,0 +1,6 @@
+numpy==1.21.2
+tensorflow==2.4.1
+scapy==2.4.3
+dataclasses==0.8
+scikit-learn==1.0.1
+keras==2.4.3
